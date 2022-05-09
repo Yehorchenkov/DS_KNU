@@ -26,4 +26,18 @@
 
 2. [Think python 2ed](https://greenteapress.com/wp/think-python-2e/)
 
-3. 
+3. [Real Python](https://realpython.com) website
+
+4. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+5. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+6. [A Byte of Python](https://python.swaroopch.com/)
+
+## Courses
+
+1. [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) offered by Google on Coursera
+
+2. <https://www.hackerrank.com/domains/python>
+
+3. <https://python-course.eu/python-tutorial/>
